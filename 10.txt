@@ -1,0 +1,14 @@
+https://www.udemy.com/course/ssl-complete-guide/learn/lecture/15150852#overview
+C:\Program Files\OpenSSL-Win64
+
+grep command: https://www.golinuxcloud.com/grep-command-in-linux/
+sed command: https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+exit command: 
+
+wild cards: https://www.educba.com/linux-wildcards/
+
+what is docker
+how to set up docker in github
+hoe to build docker in github
+what is ci in github
+what is yml
