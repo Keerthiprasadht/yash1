@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -Wall -g
+
+all: sample
+
+sample: sample.c
+    $(CC) $(CFLAGS) -o sample sample.c
+
+clean:
+    rm -f sample
